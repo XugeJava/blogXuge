@@ -28,7 +28,7 @@
 
 ## 在线地址
 
-**项目链接：** [www.talkxj.com](https://www.talkxj.com)
+**项目链接：** [www.xuge.site](https://www.xuge.site)
 
 **后台链接：** [admin.talkxj.com](https://admin.talkxj.com)
 
